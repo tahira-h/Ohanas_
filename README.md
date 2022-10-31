@@ -4,7 +4,7 @@
 
 ## Instructions
 
-#### Part 1:
+### Part 1:
 * Create a new website. Your site can be on any topic you like or can be the same first site you built. 
 * Create at least 2 more HTML pages for your website.
 
