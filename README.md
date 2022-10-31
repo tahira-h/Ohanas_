@@ -1,6 +1,5 @@
 # Ohanas
 
-#### Languages include: HTML5 and CSS3.
 
 ## Instructions
 
@@ -24,3 +23,5 @@
 * Add at least 1 animation to your website.
 * Add some shadow effects.
 * Add some hover effects on buttons and/or links.
+
+### Languages include: HTML5 and CSS3.
